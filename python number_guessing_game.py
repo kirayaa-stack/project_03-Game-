@@ -26,6 +26,3 @@ def number_guessing_game():
                 else:
                  print(f"Congraats! You guessed it in {attempts} attempts! Holy ****! sorry...You are so good!")
                  break
-            else:
-               print("OY OY OY make a valid number")
-number_guessing_game()
